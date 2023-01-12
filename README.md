@@ -8,7 +8,7 @@ This project was bootstrapped with `ReactJs`, `Tailwind component CSS`, `React r
 4. ** All of the data are dynamically displayed and collected from the API using Id in the services route. **
 5. ** To scroll within the same page I have used react-scroll.**
 6. ** User will get error if the login information doesn't match with authentication provider. **
-7. ** An errorelement page is added that will handle unnecessay url link issue. **
+7. ** An enrrorelement page is added that will handle unnecessay url link issue. **
 8. ** User will get error if the login information doesn't match with authentication provider. **
 9. ** Using Context API to send data to the children components without props, made this app more robust. **
 10. ** User can only commit interaction when they are validate upon with their role.**
