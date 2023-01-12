@@ -8,6 +8,7 @@
 /coverage
 Blog.js
 
+/src
 # production
 /build
 
