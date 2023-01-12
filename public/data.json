@@ -1,0 +1,17 @@
+[
+    {
+        "categoryName": "Fastest Laptop",
+        "categoryImg": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGxhcHRvcHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "info": "Once upon a time, a desktop computer was the only option for heavyweight creative tasks (not to mention after-hours gaming), but this isn't the case any more. While desktop machines with their roomy towers are the only platforms that can house the powerful fans needed to keep old-school CPUs cool, advances in recent years mean you can safely fit a lot more into the compact form factor of a laptop, including multi-core processors, plenty of memory, high-end GPUs and plenty more besides. "
+    },
+    {
+        "categoryName": "Toyota Premio",
+        "categoryImg": "https://www.digitaltrends.com/wp-content/uploads/2022/09/iphone-14-pro.jpeg?resize=1502%2C845&p=1",
+        "info": "The Toyota Premio (Japanese: トヨタ・プレミオ, Toyota Puremio) and its twin the Toyota Allion (Japanese: トヨタ・アリオン, Toyota Arion) are sedans sold in Japan from 2001 to 2021 by Toyota. The sedans are designated as a compact car by Japanese dimension regulations and the exterior dimensions do not change with periodic updates."
+    },
+    {
+        "categoryName": "IPhone",
+        "categoryImg": "https://st1.bgr.in/wp-content/uploads/2022/09/iphone-13-3.jpg",
+        "info": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system, and in 2021 when the iPhone 13 was introduced, it offered up to 1 TB of storage and a 12-megapixel camera."
+    }
+]
